@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+scikit-learn
+```
+
+This `requirements.txt` includes the necessary libraries to run the application, including Streamlit for the web interface, pandas for data handling, joblib for loading the pre-trained model, and scikit-learn for the machine learning functionalities that may be required by your model.
